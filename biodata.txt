@@ -1,0 +1,9 @@
+
+Nama: ilhamkenz
+Umur: 18
+Alamat: surabaya
+---
+Nama: vito el rumi
+Umur: 22
+Alamat: london, inggris
+---
